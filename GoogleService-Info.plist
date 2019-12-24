@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>449789876540-v8jcss6aoannlb4kor2ugsa7otsrs679.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.449789876540-v8jcss6aoannlb4kor2ugsa7otsrs679</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDriPEjfr7ZN8LFKBy_qIdUyK_dyNrCqwM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>449789876540</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kazune.MapSample</string>
+	<key>PROJECT_ID</key>
+	<string>mapsample-1574482210268</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mapsample-1574482210268.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:449789876540:ios:178b880e46648839b06639</string>
+	<key>DATABASE_URL</key>
+	<string>https://mapsample-1574482210268.firebaseio.com</string>
+</dict>
+</plist>
